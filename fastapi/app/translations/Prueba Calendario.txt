@@ -1,0 +1,250 @@
+      FESTIVOS
+
+      "event": "Naw-Rúz",
+      "desc": "Celebración de Naw-Rúz, el Año Nuevo Bahá'í. El día 1 de Bahá culmina el mes 'Alá mes de ayuno, y comienza un año nuevo y un nuevo mes. Es un momento de renovación espiritual y alegría.",
+      "badi_month": 1,
+      "badi_month_name": "Bahá",
+      "badi_day": 1,
+      "gregorian_date": "2025-03-20"
+      
+      "event": "Primer Día de Riḍván",
+      "desc": "Primer día de Riḍván, que marca el inicio del Festival de Riḍván. Conmemora la declaración de Bahá’u’lláh de Su misión como Mensajero de Dios.",
+      "badi_month": 2,
+      "badi_month_name": "Jalál",
+      "badi_day": 13,
+      "gregorian_date": "2025-04-20"
+      
+      "event": "Noveno Día de Riḍván",
+      "desc": "Noveno día de Riḍván, se celebra la llegada de los familiares de Bahá’u’lláh al Jardín de Riḍván.",
+      "badi_month": 3,
+      "badi_month_name": "Jamál",
+      "badi_day": 2,
+      "gregorian_date": "2025-04-28"
+      
+      "event": "Duodécimo Día de Riḍván",
+      "desc": "Duodécimo día de Riḍván, día en que Bahá’u’lláh y su familia dejaron el Jardín de Riḍván para viajar a Constantinopla.",
+      "badi_month": 3,
+      "badi_month_name": "Jamál",
+      "badi_day": 5,
+      "gregorian_date": "2025-05-01"
+      
+      "event": "Declaración del Báb",
+      "desc": "Se conmemora el día en que el Báb dió a conocer Su condición como Mensajero de Dios (1844).",
+      "badi_month": 4,
+      "badi_month_name": "'Aẓamat",
+      "badi_day": 8,
+      "gregorian_date": "2025-05-23"
+      
+      "event": "Ascensión de Bahá’u’lláh",
+      "desc": "Conmemoración de la ascensión de Bahá’u’lláh (1892).",
+      "badi_month": 4,
+      "badi_month_name": "'Aẓamat",
+      "badi_day": 13,
+      "gregorian_date": "2025-05-28"
+      
+      "event": "Martirio del Báb",
+      "desc": "Conmemoración del martirio del Báb (1850).",
+      "badi_month": 6,
+      "badi_month_name": "Raḥmat",
+      "badi_day": 17,
+      "gregorian_date": "2025-07-09"
+      
+      "event": "Nacimiento del Báb",
+      "desc": "Celebración del nacimiento del Báb (1819), el precursor de Bahá’u’lláh.",
+      "badi_month": 12,
+      "badi_month_name": "'Ilm",
+      "badi_day": 5,
+      "gregorian_date": "2025-10-19"
+      
+      "event": "Nacimiento de Bahá’u’lláh",
+      "desc": "Celebración del nacimiento de Bahá’u’lláh (1817).",
+      "badi_month": 12,
+      "badi_month_name": "'Ilm",
+      "badi_day": 6,
+      "gregorian_date": "2025-10-20"
+      
+      "event": "Día de la Alianza",
+      "desc": "Conmemorando el nombramiento por parte de Bahá’u’lláh de su hijo, ‘Abdu’l-Bahá, como aquel a quien sus seguidores debían acudir tras su fallecimiento.",
+      "badi_month": 14,
+      "badi_month_name": "Qawl",
+      "badi_day": 4,
+      "gregorian_date": "2025-11-25"
+      
+      "event": "Ascensión de ‘Abdu’l-Bahá",
+      "desc": "Conmemoración de la ascensión de ‘Abdu’l-Bahá (1921).",
+      "badi_month": 14,
+      "badi_month_name": "Qawl",
+      "badi_day": 6,
+      "gregorian_date": "2025-11-27"
+      
+      "event": "Ayyám-i-Há",
+      "desc": "(también conocido como los días intercalares) es un período de celebración dedicado a la caridad, los regalos y las festividades antes del período anual de ayuno.",
+      "badi_month": 0,
+      "badi_month_name": "Ayyám-i-Há",
+      "badi_day": 1,
+      "gregorian_date": "2026-02-25"
+      
+      "event": "Ayyám-i-Há",
+      "desc": "(también conocido como los días intercalares) es un período de celebración dedicado a la caridad, los regalos y las festividades antes del período anual de ayuno.",
+      "badi_month": 0,
+      "badi_month_name": "Ayyám-i-Há",
+      "badi_day": 2,
+      "gregorian_date": "2026-02-26"
+      
+      "event": "Ayyám-i-Há",
+      "desc": "(también conocido como los días intercalares) es un período de celebración dedicado a la caridad, los regalos y las festividades antes del período anual de ayuno.",
+      "badi_month": 0,
+      "badi_month_name": "Ayyám-i-Há",
+      "badi_day": 3,
+      "gregorian_date": "2026-02-27"
+      
+      "event": "Ayyám-i-Há",
+      "desc": "(también conocido como los días intercalares) es un período de celebración dedicado a la caridad, los regalos y las festividades antes del período anual de ayuno.",
+      "badi_month": 0,
+      "badi_month_name": "Ayyám-i-Há",
+      "badi_day": 4,
+      "gregorian_date": "2026-02-28"
+      
+      "event": "Ayyám-i-Há",
+      "desc": "(también conocido como los días intercalares) es un período de celebración dedicado a la caridad, los regalos y las festividades antes del período anual de ayuno.",
+      "badi_month": 0,
+      "badi_month_name": "Ayyám-i-Há",
+      "badi_day": 5,
+      "gregorian_date": "2026-03-01"
+      
+      "event": "Primer día de Ayuno",
+      "desc": "Primer día de período de ayuno.",
+      "badi_month": 19,
+      "badi_month_name": "'Alá'",
+      "badi_day": 1,
+      "gregorian_date": "2026-03-02"
+      
+      "event": "Último día de Ayuno",
+      "desc": "Último día de período de ayuno.",
+      "badi_month": 19,
+      "badi_month_name": "'Alá'",
+      "badi_day": 19,
+      "gregorian_date": "2026-03-20"
+
+
+      MESES
+
+      "badi_month": 1,
+      "badi_month_name": "Bahá (Esplendor)",
+      "gregorian_date": "2025-03-20",
+      "desc": "Es el primer mes del año. Con el comienza el primer Periodo Espiritual, Glorificación de Dios, Fuego del amor divino encendido en los corazones",
+      "info": "Comienzo en el atardecer del día anterior"
+      
+      "badi_month": 2,
+      "badi_month_name": "Jalál (Gloria)",
+      "gregorian_date": "2025-04-08",
+      "desc": "",
+      "info": "Comienzo en el atardecer del día anterior"
+      
+      "badi_month": 3,
+      "badi_month_name": "Jamál (Belleza)",
+      "gregorian_date": "2025-04-27",
+      "desc": "Fin del primer Periodo Espiritual, Glorificación de Dios.",
+      "info": "Comienzo en el atardecer del día anterior"
+      
+      "badi_month": 4,
+      "badi_month_name": "'Aẓamat (Grandeza)",
+      "gregorian_date": "2025-05-16",
+      "desc": "Con él comienza el segundo Periodo Espiritual, Alabanza de Dios: Creación de los espíritus contingentes, sustento espiritual.",
+      "info": "Comienzo en el atardecer del día anterior"
+      
+      "badi_month": 5,
+      "badi_month_name": "Núr (Luz)",
+      "gregorian_date": "2025-06-04",
+      "desc": "",
+      "info": "Comienzo en el atardecer del día anterior"
+      
+      "badi_month": 6,
+      "badi_month_name": "Raḥmat (Misericordia)",
+      "gregorian_date": "2025-06-23",
+      "desc": "",
+      "info": "Comienzo en el atardecer del día anterior"
+      
+      "badi_month": 7,
+      "badi_month_name": "Kalimát (Palabras)",
+      "gregorian_date": "2025-07-12",
+      "desc": "Fin del segundo Período Espiritual, Alabanza de Dios.",
+      "info": "Comienzo en el atardecer del día anterior"
+      
+      "badi_month": 8,
+      "badi_month_name": "Kamál (Perfección)",
+      "gregorian_date": "2025-07-31",
+      "desc": "Comienza el tercer Período Espiritual, declaración de la Unidad Diversidad: Muerte a la negación y vida en el asentimiento.",
+      "info": "Comienzo en el atardecer del día anterior"
+      
+      "badi_month": 9,
+      "badi_month_name": "Asmá' (Nombres)",
+      "gregorian_date": "2025-08-19",
+      "desc": "",
+      "info": "Comienzo en el atardecer del día anterior"
+      
+      "badi_month": 10,
+      "badi_month_name": "'Izzat (Poderío)",
+      "gregorian_date": "2025-09-07",
+      "desc": "",
+      "info": "Comienzo en el atardecer del día anterior"
+      
+      "badi_month": 11,
+      "badi_month_name": "Mashíyyat (Voluntad)",
+      "gregorian_date": "2025-09-26",
+      "desc": "",
+      "info": "Comienzo en el atardecer del día anterior"
+      
+      "badi_month": 12,
+      "badi_month_name": "'Ilm (Conocimiento)",
+      "gregorian_date": "2025-10-15",
+      "desc": "",
+      "info": "Comienzo en el atardecer del día anterior"
+      
+      "badi_month": 13,
+      "badi_month_name": "Qudrat (Poder)",
+      "gregorian_date": "2025-11-03",
+      "desc": "Fin del tercer Periodo Espiritual, Declaración de la Unidad Diversidad.",
+      "info": "Comienzo en el atardecer del día anterior"
+      
+      "badi_month": 14,
+      "badi_month_name": "Qawl (Discurso)",
+      "gregorian_date": "2025-11-22",
+      "desc": "Inicio del cuarto y último Periodo Espiritual, Enaltecimiento de Dios: Vivificación de quienes han muerto a todos más que Dios y se han mantenido firmes en Su Amor.",
+      "info": "Comienzo en el atardecer del día anterior"
+      
+      "badi_month": 15,
+      "badi_month_name": "Masá’il (Preguntas)",
+      "gregorian_date": "2025-12-11",
+      "desc": "",
+      "info": "Comienzo en el atardecer del día anterior"
+      
+      "badi_month": 16,
+      "badi_month_name": "Sharaf (Honor)",
+      "gregorian_date": "2025-12-30",
+      "desc": "",
+      "info": "Comienzo en el atardecer del día anterior"
+      
+      "badi_month": 17,
+      "badi_month_name": "Sulṭán (Soberanía)",
+      "gregorian_date": "2026-01-18",
+      "desc": "",
+      "info": "Comienzo en el atardecer del día anterior"
+      
+      "badi_month": 18,
+      "badi_month_name": "Mulk (Dominio)",
+      "gregorian_date": "2026-02-06",
+      "desc": "",
+      "info": "Comienzo en el atardecer del día anterior"
+      
+      "badi_month": 19,
+      "badi_month_name": "'Alá' (Sublimidad)",
+      "gregorian_date": "2026-03-02",
+      "desc": "Es el mes número 19, el último del año. Fin del cuarto Periodo Espiritual, Enaltecimiento de Dios.",
+      "info": "Comienzo en el atardecer del día anterior"
+      
+      "badi_month": 0,
+      "badi_month_name": "Ayyám-i-Há (Días intercalares)",
+      "gregorian_date": "2026-02-25",
+      "desc": "Literalmente, Días de Há. Los días intercalares son 4 días (5 en años bisiestos) antes del último mes Bahá'í del año, 'Alá', que es el mes del ayuno. Bahá'u'lláh designó los días intercalares como Ayyám-i-Há en el Kitáb-i-Aqdas y especificó cuándo debían ser; El Bab dejó esto indefinido. Los días de Ayyám-i-Há son una preparación espiritual para el ayuno, días de hospitalidad, caridad y de dar se regalos unos a otros. Que los días sobrantes de los meses se coloquen antes del mes de ayuno. Hemos ordenado que éstos, entre todos los días y las noches, sean las manifestaciones de la letra Há, y por ello no quedan sujetos a los límites del año y sus meses. (Bahá'u'lláh, The Kitab-i-Aqdas, fragmento del párrafo 16).",
+      "info": "Comienzo en el atardecer del día anterior"
